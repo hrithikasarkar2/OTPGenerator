@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Password reset form</title>
+	<link rel="stylesheet" type="text/css" href="design.css">
+</head>
+<body>
+<h1>Password Reset</h1>
+<form>
+	<input type="number" placeholder="Personal Number">
+	<input type="email" placeholder="Email">
+	<input type="tel"  placeholder="Contact Number">
+	<input type="Submit" value="Generate OTP" >
+                 <input type="Reset" value="Reset" >
+			
+</form>
+</body>
+</html>		
